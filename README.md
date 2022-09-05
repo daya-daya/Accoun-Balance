@@ -1,3 +1,3 @@
 # Homework Projects
 
-I will share my homework projects here.
+I share my homework projects here.
